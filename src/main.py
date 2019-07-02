@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import acquisition 
 import clean
 import api
+import analysis
 
 def read_file(file):
     my_dataframe = acquisition.open_data(file)
@@ -30,9 +31,15 @@ def datafromApi(my_dataframe):
     data_apis = api.makeData([data_marzo, data_febrero, data_enero, data_diciembre, data_noviembre])
     return data_apis
 
+def analysis(my_dataframe):
+    data_merge = analysis.twoDataframes(data_apis, data_clean)
+    selected_columns = analysis.select_columns(data_merge['Reported Month','temperatureMin', 'Total Dead and Missing','Region of Incident'])
+    return data_merge
+
 if __name__ == "__main__":
     data = read_file('../Input/MissingMigrants.csv')
     BASE_URL = "https://api.darksky.net/forecast" 
     data_clean = cleaning(data)
-    x = datafromApi(data_clean)
-    print(x)
+    data_apis = datafromApi(data_clean)
+    data_final = analysis(data_apis)
+    print(data_final)
