@@ -5,9 +5,6 @@ from acquisition import *
 def dropcolumns(data, columns):
         data = data.drop(columns, axis=1)
         return data
-data = dropcolumns(data, ['Web ID','Reported Date', 'Information Source', 'URL', 'UNSD Geographical Grouping', 'Source Quality'])
-#print(dropcolumns(data, ['Web ID','Reported Date', 'Information Source', 'URL', 'UNSD Geographical Grouping', 'Source Quality']))
-#print(data)
 
 def cleanCauseDeath(cause):
     cause = str(cause)
@@ -35,7 +32,6 @@ def cleanCauseDeath(cause):
           return 'Harsh conditions'
     else:
         return cause
-data['Cause of Death'] = data['Cause of Death'].apply(cleanCauseDeath)
 
 def cleanLocation(location):
     location = str(location)
@@ -113,7 +109,6 @@ def cleanLocation(location):
         return 'Puerto Rico'
     else:
         return location
-data['Location Description'] = data['Location Description'].apply(cleanLocation)
 
 def FilterNumberCountry(data, col):
     count = data[col].value_counts()
@@ -121,10 +116,7 @@ def FilterNumberCountry(data, col):
     data = data[data[col].isin(lista)]
     return data
 
-data = FilterNumberCountry(data, 'Location Description')
-
 def fillNaN(data, col):
     [data[col].fillna('Unknown', inplace=True) for col in data.columns]
     return data
     
-data = fillNaN(data,'Number of Females')

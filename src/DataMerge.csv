@@ -1,0 +1,252 @@
+index,Region of Incident,Reported Year,Reported Month,Number Dead,Minimum Estimated Number of Missing,Total Dead and Missing,Number of Survivors,Number of Females,Number of Males,Number of Children,Cause of Death,Location Description,Location Coordinates,Migration Route,latitud,longitud,temperatureMax,temperatureMin,uvIndex
+0,Mediterranean,2019,Mar,Unknown,2.0,2,36.0,Unknown,2.0,Unknown,Drowning,Greece,"38.362368696592, 26.172509473654",Eastern Mediterranean,38.362368696592,26.172509473654,61.58,37.64,5
+1,Mediterranean,2019,Mar,4.0,Unknown,4,11.0,3.0,Unknown,1.0,Drowning,Turkey,"39.441975591614, 26.378816195919",Eastern Mediterranean,39.441975591614,26.378816195919,61.39,48.17,5
+2,Mediterranean,2019,Mar,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Drowning,Spain,"35.871901875921, -5.343037665842",Western Mediterranean,35.871901875921,-5.343037665842,66.87,57.15,4
+3,Mediterranean,2019,Mar,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Drowning,Morocco,"35.635115912988, -5.275650103548",Western Mediterranean,35.635115912988,-5.275650103548,71.46,54.13,5
+4,Central America,2019,Mar,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Mexico,"19.334475177429, -98.069823987538",Unknown,19.334475177429,-98.069823987538,74.12,41.15,13
+5,US-Mexico Border,2019,Mar,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Unknown,32.057499,-111.6660725,74.48,37.75,9
+6,US-Mexico Border,2019,Mar,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Unknown,32.057499,-111.6660725,74.48,37.75,9
+7,Southeast Asia,2019,Mar,8.0,2.0,10,Unknown,1.0,Unknown,Unknown,Accident,Myanmar,"13.865704814542, 99.587248723929",Unknown,13.865704814542,99.587248723929,98.65,72.94,10
+9,US-Mexico Border,2019,Mar,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Unknown,32.057499,-111.6660725,74.48,37.75,9
+10,US-Mexico Border,2019,Mar,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Unknown,32.057499,-111.6660725,74.48,37.75,9
+11,Central America,2019,Mar,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Murdered,Mexico,"24.057148900000, -105.457669800000",Unknown,24.0571489,-105.4576698,71.45,34.11,11
+12,Mediterranean,2019,Mar,1.0,3.0,4,15.0,Unknown,Unknown,1.0,Drowning,Libya,"32.816243467052, 12.530851413107",Central Mediterranean,32.816243467052,12.530851413107,63.65,48.38,6
+13,Mediterranean,2019,Mar,3.0,Unknown,3,52.0,Unknown,Unknown,Unknown,Drowning,Morocco,"35.267895220573, -2.799562392362",Western Mediterranean,35.267895220573,-2.799562392362,67.36,52.86,5
+14,Central America,2019,Mar,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Mexico,"25.563914159609, -103.492111622910",Unknown,25.563914159609,-103.49211162291,87.45,54.74,10
+15,North Africa,2019,Mar,Unknown,19.0,19,1.0,Unknown,Unknown,Unknown,Drowning,Morocco,"29.425766218075, -10.453333285156",Western African,29.425766218075,-10.453333285156,63.18,60.57,7
+16,US-Mexico Border,2019,Mar,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.331803200000, -112.524509300000",Unknown,32.3318032,-112.5245093,73.5,43.92,8
+17,Mediterranean,2019,Mar,1.0,44.0,45,22.0,3.0,Unknown,1.0,Drowning,Morocco,"35.298258842764, -2.688431354400",Western Mediterranean,35.298258842764,-2.6884313544,66.61,55.64,6
+18,US-Mexico Border,2019,Mar,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","31.794415600000, -112.446447300000",Unknown,31.7944156,-112.4464473,79.17,40.23,9
+20,US-Mexico Border,2019,Mar,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057701900000, -112.143021500000",Unknown,32.0577019,-112.1430215,69.51,41.5,9
+21,Mediterranean,2019,Mar,1.0,Unknown,1,Unknown,1.0,Unknown,1.0,Drowning,"Lesvos, Greece","39.014895057350, 26.180971588785",Eastern Mediterranean,39.01489505735,26.180971588785,63.39,52.05,5
+22,Mediterranean,2019,Mar,1.0,Unknown,1,Unknown,1.0,Unknown,Unknown,Drowning,"Lesvos, Greece","39.270273892269, 26.398878350778",Eastern Mediterranean,39.270273892269,26.398878350778,61.74,48.44,5
+23,Mediterranean,2019,Mar,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Drowning,Libya,"32.817109118023, 12.877722158656",Central Mediterranean,32.817109118023,12.877722158656,62.98,49.54,6
+24,Europe,2019,Mar,1.0,Unknown,1,1.0,Unknown,1.0,Unknown,Accident,Serbia,"45.122436600000, 19.220929400000",Western Balkans,45.1224366,19.2209294,63.31,38.85,3
+25,Europe,2019,Mar,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Suffocation,France,"50.971622839886, 1.858666925932",Unknown,50.971622839886,1.858666925932,48.7,45.61,2
+26,Mediterranean,2019,Mar,Unknown,2.0,2,Unknown,Unknown,Unknown,Unknown,Drowning,Libya,"32.830914360483, 12.781146358787",Central Mediterranean,32.830914360483,12.781146358787,62.96,49.17,6
+27,Mediterranean,2019,Mar,3.0,Unknown,3,9.0,Unknown,3.0,2.0,Drowning,Greece,"37.765329835283, 27.098161931733",Eastern Mediterranean,37.765329835283,27.098161931733,58.46,38.75,5
+28,Central America,2019,Mar,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Cardiac arrest,Colombia,"8.642780272046, -77.529404492532",Unknown,8.642780272046,-77.529404492532,86.2,74.75,9
+29,Central America,2019,Mar,24.0,Unknown,24,33.0,11.0,13.0,5.0,Accident,Mexico,"16.879242771128, -92.916367624797",Unknown,16.879242771128,-92.916367624797,79.84,56.95,12
+30,US-Mexico Border,2019,Mar,1.0,Unknown,1,Unknown,1.0,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Unknown,32.057499,-111.6660725,74.48,37.75,9
+32,Central America,2019,Mar,2.0,Unknown,2,8.0,Unknown,Unknown,Unknown,Murdered,Mexico,"16.345883871687, -92.595581925608",Unknown,16.345883871687,-92.595581925608,93.14,63.77,12
+33,Mediterranean,2019,Mar,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Spain,"35.907899477687, -5.347827507452",Western Mediterranean,35.907899477687,-5.347827507452,65.33,58.21,4
+34,Central America,2019,Mar,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Mexico,"22.172888700000, -100.967452800000",Unknown,22.1728887,-100.9674528,62.15,51.44,3
+35,Mediterranean,2019,Feb,2.0,4.0,6,Unknown,1.0,1.0,Unknown,Drowning,Morocco,"35.856284991833, -5.854248522049",Western Mediterranean,35.856284991833,-5.854248522049,67.14,42.75,4
+36,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057701900000, -112.143021500000",Unknown,32.0577019,-112.1430215,67.14,42.75,4
+37,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057701900000, -112.143021500000",Unknown,32.0577019,-112.1430215,73.32,46.0,4
+38,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Unknown,"Arizona, USA","32.291122000000, -111.377669100000",Unknown,32.291122,-111.3776691,75.19,55.91,4
+39,Mediterranean,2019,Feb,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Drowning,Libya,"32.799680261076, 12.740310887952",Central Mediterranean,32.799680261076,12.740310887952,62.1,48.39,3
+40,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,"Texas, USA","28.620958685162, -100.160775037960",Unknown,28.620958685162,-100.16077503796,68.02,34.73,5
+41,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","31.802384100000, -110.262284200000",Unknown,31.8023841,-110.2622842,70.17,43.99,4
+42,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.331803200000, -112.524509300000",Unknown,32.3318032,-112.5245093,75.48,55.7,4
+43,Mediterranean,2019,Feb,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Drowning,Libya,"32.795883457110, 12.734512549273",Central Mediterranean,32.79588345711,12.734512549273,70.6,53.91,4
+46,North Africa,2019,Feb,2.0,Unknown,2,Unknown,2.0,Unknown,Unknown,Unknown,Morocco,"35.143072914540, -2.987014300369",Unknown,35.14307291454,-2.987014300369,64.65,47.99,3
+47,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,"Texas, USA","28.718723271107, -100.506647433010",Unknown,28.718723271107,-100.50664743301,70.17,43.99,4
+48,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.331803200000, -112.524509300000",Unknown,32.3318032,-112.5245093,64.38,50.97,3
+49,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,"California, USA","32.563023500000, -116.940790500000",Unknown,32.5630235,-116.9407905,68.05,55.37,4
+50,US-Mexico Border,2019,Feb,2.0,Unknown,2,Unknown,Unknown,Unknown,Unknown,Unknown,"Texas, USA","27.131022830084, -98.053451252909",Unknown,27.131022830084,-98.053451252909,61.96,53.53,3
+51,Mediterranean,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Spain,"36.004694276199, -5.509231863325",Western Mediterranean,36.004694276199,-5.509231863325,54.18,41.69,3
+52,Middle East,2019,Feb,3.0,Unknown,3,Unknown,3.0,Unknown,Unknown,Drowning,Turkey,"36.919584700000, 37.034761500000",Unknown,36.9195847,37.0347615,73.9,49.45,4
+53,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,"California, USA","32.705996627134, -115.159694515790",Unknown,32.705996627134,-115.15969451579,90.54,65.12,9
+54,Central America,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Cardiac arrest,Guatemala,"14.676488505722, -92.146375389048",Unknown,14.676488505722,-92.146375389048,63.31,51.75,3
+55,US-Mexico Border,2019,Feb,1.0,Unknown,1,2.0,1.0,Unknown,Unknown,Accident,Mexico,"32.542375795428, -116.999537459500",Unknown,32.542375795428,-116.9995374595,70.35,38.6,5
+56,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Unknown,32.057499,-111.6660725,70.35,38.6,5
+57,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Unknown,32.057499,-111.6660725,76.71,38.32,6
+58,Central America,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Mexico,"22.164571000000, -100.938266000000",Unknown,22.164571,-100.938266,56.06,34.07,2
+59,Middle East,2019,Feb,2.0,Unknown,2,Unknown,Unknown,2.0,Unknown,Drowning,Greece,"41.135599001556, 26.326539051871",Unknown,41.135599001556,26.326539051871,64.32,53.68,4
+60,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Unknown,"Texas, USA","26.982280497005, -98.267379508161",Unknown,26.982280497005,-98.267379508161,64.76,48.03,3
+61,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,"Texas, USA","28.700360570000, -100.510757707230",Unknown,28.70036057,-100.51075770723,60.98,54.15,3
+62,Mediterranean,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,1.0,Unknown,Spain,"35.893361197022, -5.320987701416",Western Mediterranean,35.893361197022,-5.320987701416,70.92,55.63,4
+63,Mediterranean,2019,Feb,3.0,Unknown,3,Unknown,Unknown,Unknown,Unknown,Drowning,Libya,"31.207914877621, 16.508365236703",Central Mediterranean,31.207914877621,16.508365236703,68.63,54.72,4
+64,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Texas, USA","27.040028051146, -98.103990938813",Unknown,27.040028051146,-98.103990938813,61.78,54.2,4
+65,US-Mexico Border,2019,Feb,Unknown,1.0,1,1.0,Unknown,1.0,Unknown,Drowning,Mexico,"26.094483422113, -98.270738236367",Unknown,26.094483422113,-98.270738236367,74.38,35.09,8
+66,Central America,2019,Feb,1.0,Unknown,1,7.0,Unknown,1.0,Unknown,Accident,Mexico,"19.984811631957, -101.150053343960",Unknown,19.984811631957,-101.15005334396,62.19,47.79,2
+67,Mediterranean,2019,Feb,Unknown,1.0,1,Unknown,1.0,Unknown,1.0,Drowning,"Lesvos, Greece","39.417612220935, 26.393699500607",Eastern Mediterranean,39.417612220935,26.393699500607,67.67,54.39,4
+68,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,1.0,Unknown,Unknown,Unknown,"Texas, USA","27.025620837846, -98.163042452485",Unknown,27.025620837846,-98.163042452485,62.14,51.02,3
+69,Mediterranean,2019,Feb,Unknown,3.0,3,9.0,Unknown,Unknown,Unknown,Drowning,Morocco,"35.876466418300, -5.812712909613",Western Mediterranean,35.8764664183,-5.812712909613,68.51,54.48,3
+70,Mediterranean,2019,Feb,2.0,3.0,5,13.0,Unknown,Unknown,Unknown,Drowning,Algeria,"35.850585778575, -0.543309022656",Western Mediterranean,35.850585778575,-0.543309022656,33.17,23.77,2
+72,Europe,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Weather conditions,France,"44.920683173838, 6.673599624343",Italy to France,44.920683173838,6.673599624343,60.4,53.47,4
+73,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Mexico,"26.365378242149, -98.813139596667",Unknown,26.365378242149,-98.813139596667,79.58,39.59,7
+74,Central America,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Murdered,Mexico,"25.463711663602, -100.979898450230",Unknown,25.463711663602,-100.97989845023,62.0,51.67,3
+75,Mediterranean,2019,Feb,1.0,2.0,3,42.0,Unknown,Unknown,Unknown,Drowning,Morocco,"35.866177998708, -5.878967760331",Western Mediterranean,35.866177998708,-5.878967760331,71.31,61.19,3
+76,Mediterranean,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,1.0,Drowning,Algeria,"36.902592327412, 8.477123270827",Central Mediterranean,36.902592327412,8.477123270827,66.21,50.42,4
+77,North Africa,2019,Feb,3.0,Unknown,3,25.0,2.0,1.0,Unknown,Accident,Morocco,"34.960378300119, -3.380756396653",Unknown,34.960378300119,-3.380756396653,67.96,48.93,3
+79,North Africa,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Weather conditions,Algeria,"34.705746117811, -1.775936609354",Unknown,34.705746117811,-1.775936609354,60.38,51.64,4
+80,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Mexico,"26.378453484173, -98.956549230533",Unknown,26.378453484173,-98.956549230533,67.83,48.94,3
+81,North Africa,2019,Feb,3.0,Unknown,3,Unknown,Unknown,Unknown,Unknown,Weather conditions,Algeria,"34.667391957446, -1.812885234328",Unknown,34.667391957446,-1.812885234328,84.29,62.58,9
+82,Central America,2019,Feb,1.0,Unknown,1,4.0,Unknown,1.0,Unknown,Murdered,Mexico,"17.728169900000, -91.758994100000",Unknown,17.7281699,-91.7589941,84.28,73.35,9
+85,US-Mexico Border,2019,Feb,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,"Texas, USA","26.082034154560, -98.258656087878",Unknown,26.08203415456,-98.258656087878,51.15,30.72,3
+86,Horn of Africa,2019,Jan,52.0,18.0,70,16.0,3.0,2.0,Unknown,Drowning,Yemen,"11.903581356334, 43.332109915572",Horn Africa to Yemen,11.903581356334,43.332109915572,51.15,30.72,3
+87,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Unknown,32.057499,-111.6660725,51.15,30.72,3
+88,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Unknown,32.057499,-111.6660725,85.3,65.48,6
+89,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Unknown,32.057499,-111.6660725,85.5,79.53,9
+90,Central America,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Mexico,"17.871860612667, -94.963871768009",Unknown,17.871860612667,-94.963871768009,61.82,39.96,5
+91,South America,2019,Jan,19.0,5.0,24,8.0,Unknown,Unknown,10.0,Drowning,Colombia,"8.641338758453, -77.330689179762",Unknown,8.641338758453,-77.330689179762,66.57,44.43,5
+92,US-Mexico Border,2019,Jan,3.0,Unknown,3,Unknown,Unknown,3.0,Unknown,Drowning,Mexico,"27.345466202071, -99.506891221976",Central America to US,27.345466202071,-99.506891221976,60.59,48.55,6
+93,Central America,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Mexico,"25.286312500000, -101.281562500000",Unknown,25.2863125,-101.2815625,45.24,29.47,4
+94,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Mexico,"26.143064684377, -98.330164834268",Unknown,26.143064684377,-98.330164834268,60.24,47.45,6
+95,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","31.691203800000, -110.461623900000",Unknown,31.6912038,-110.4616239,64.63,43.72,3
+96,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Mexico,"26.217242152142, -98.455393500959",Unknown,26.217242152142,-98.455393500959,53.53,31.67,4
+97,Mediterranean,2019,Jan,1.0,Unknown,1,2.0,Unknown,1.0,Unknown,Drowning,Algeria,"35.384524413151, -1.278253990517",Western Mediterranean,35.384524413151,-1.278253990517,73.7,47.66,7
+98,US-Mexico Border,2019,Jan,2.0,Unknown,2,Unknown,1.0,1.0,1.0,Accident,Mexico,"31.667101100000, -106.426767800000",Unknown,31.6671011,-106.4267678,48.07,27.93,4
+99,Central America,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Mexico,"19.705606860591, -99.174764262762",Unknown,19.705606860591,-99.174764262762,63.03,39.63,4
+100,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Unknown,"Arizona, USA","31.365435700000, -110.106236400000",Unknown,31.3654357,-110.1062364,61.55,49.53,3
+102,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Mexico,"27.496386435717, -99.522521470236",Unknown,27.496386435717,-99.522521470236,58.31,54.01,2
+103,Mediterranean,2019,Jan,1.0,Unknown,1,Unknown,1.0,Unknown,Unknown,Drowning,Algeria,"36.334378214124, 0.715927412066",Western Mediterranean,36.334378214124,0.715927412066,85.08,65.21,6
+104,Mediterranean,2019,Jan,1.0,Unknown,1,106.0,Unknown,1.0,1.0,Unknown,Libya,"32.638272650604, 14.273579120636",Central Mediterranean,32.638272650604,14.273579120636,64.28,45.82,3
+105,Central America,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Mexico,"17.932600658549, -94.905738830566",Unknown,17.932600658549,-94.905738830566,59.21,54.79,2
+106,Mediterranean,2019,Jan,1.0,Unknown,1,2.0,Unknown,1.0,Unknown,Drowning,Algeria,"35.398647116844, -1.389655987849",Western Mediterranean,35.398647116844,-1.389655987849,51.15,30.72,3
+107,Mediterranean,2019,Jan,Unknown,1.0,1,106.0,Unknown,1.0,Unknown,Drowning,Libya,"32.747691895753, 14.355331747358",Central Mediterranean,32.747691895753,14.355331747358,51.15,30.72,3
+108,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Unknown,32.057499,-111.6660725,51.15,30.72,3
+109,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Unknown,32.057499,-111.6660725,51.15,30.72,3
+110,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Unknown,32.057499,-111.6660725,51.15,30.72,3
+111,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Unknown,32.057499,-111.6660725,59.27,54.49,2
+112,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Unknown,32.057499,-111.6660725,51.15,30.72,3
+113,Mediterranean,2019,Jan,2.0,Unknown,2,141.0,Unknown,Unknown,Unknown,Drowning,Libya,"32.980238100921, 13.179283824044",Central Mediterranean,32.980238100921,13.179283824044,58.4,54.8,2
+114,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Unknown,32.057499,-111.6660725,56.47,49.67,2
+115,Mediterranean,2019,Jan,Unknown,117.0,117,3.0,10.0,Unknown,2.0,Drowning,Libya,"34.177488404634, 14.107902221177",Central Mediterranean,34.177488404634,14.107902221177,61.98,51.41,3
+116,Mediterranean,2019,Jan,1.0,Unknown,1,53.0,Unknown,1.0,Unknown,Drowning,Greece,"37.283283323213, 27.104012036372",Eastern Mediterranean,37.283283323213,27.104012036372,52.02,33.81,3
+117,Mediterranean,2019,Jan,Unknown,53.0,53,1.0,Unknown,Unknown,Unknown,Drowning,Spain,"35.683709040408, -3.185250605342",Western Mediterranean,35.683709040408,-3.185250605342,52.51,32.45,3
+118,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.481200700000, -111.667840700000",Unknown,32.4812007,-111.6678407,59.57,46.54,5
+119,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Dehydration,"Arizona, USA","31.746892100000, -111.945738600000",Unknown,31.7468921,-111.9457386,67.96,34.07,5
+120,US-Mexico Border,2019,Jan,Unknown,1.0,1,Unknown,Unknown,1.0,Unknown,Drowning,Mexico,"26.258109878807, -98.596733869797",Unknown,26.258109878807,-98.596733869797,62.9,45.78,3
+121,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Mexico,"29.063937500000, -100.663562500000",Unknown,29.0639375,-100.6635625,83.14,68.38,7
+122,Mediterranean,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Spain,"35.289594291265, -2.933496506173",Western Mediterranean,35.289594291265,-2.933496506173,62.9,39.67,4
+123,Central America,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Murdered,Mexico,"19.178049100000, -96.128842600000",Unknown,19.1780491,-96.1288426,46.19,36.94,1
+124,US-Mexico Border,2019,Jan,Unknown,2.0,2,Unknown,Unknown,Unknown,Unknown,Drowning,Mexico,"27.478392338088, -99.479276945846",Unknown,27.478392338088,-99.479276945846,51.15,30.72,3
+125,Middle East,2019,Jan,3.0,Unknown,3,Unknown,Unknown,3.0,Unknown,Drowning,Greece,"40.942167951616, 26.352665973258",Unknown,40.942167951616,26.352665973258,57.11,54.56,3
+126,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Unknown,32.057499,-111.6660725,49.71,44.65,2
+127,Mediterranean,2019,Jan,10.0,Unknown,10,Unknown,Unknown,Unknown,Unknown,Drowning,Libya,"31.210755489725, 16.588350626388",Central Mediterranean,31.210755489725,16.588350626388,68.54,36.42,5
+128,Mediterranean,2019,Jan,1.0,Unknown,1,40.0,1.0,Unknown,1.0,Unknown,Turkey,"37.857359600378, 27.167936354123",Eastern Mediterranean,37.857359600378,27.167936354123,66.95,47.09,5
+129,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Murdered,Mexico,"28.730727706150, -100.563445215960",Unknown,28.73072770615,-100.56344521596,57.62,54.79,3
+130,Central America,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Mexico,"25.438323400000, -100.973678000000",Unknown,25.4383234,-100.973678,86.31,70.33,7
+131,Mediterranean,2019,Jan,5.0,Unknown,5,Unknown,Unknown,Unknown,Unknown,Drowning,Libya,"31.220020736471, 16.567751261154",Central Mediterranean,31.220020736471,16.567751261154,62.02,45.76,3
+132,Central America,2019,Jan,1.0,Unknown,1,100.0,Unknown,1.0,Unknown,Accident,Mexico,"18.329901676413, -95.812964294797",Unknown,18.329901676413,-95.812964294797,49.35,45.14,1
+133,Mediterranean,2019,Jan,1.0,Unknown,1,6.0,1.0,Unknown,Unknown,Drowning,Morocco,"35.261606842877, -2.901902411860",Western Mediterranean,35.261606842877,-2.90190241186,57.64,54.8,3
+134,Europe,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,France,"49.232567558821, -0.290652339042",Unknown,49.232567558821,-0.290652339042,51.15,30.72,3
+135,Mediterranean,2019,Jan,2.0,Unknown,2,Unknown,Unknown,Unknown,Unknown,Drowning,Libya,"31.224587793151, 16.529299112716",Central Mediterranean,31.224587793151,16.529299112716,62.24,48.47,3
+136,US-Mexico Border,2019,Jan,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Central America to US,32.057499,-111.6660725,65.06,43.68,2
+137,Mediterranean,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Spain,"36.685755388762, -2.777835705707",Western Mediterranean,36.685755388762,-2.777835705707,77.38,53.66,9
+138,Mediterranean,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Spain,"36.485367400000, -4.738263000000",Western Mediterranean,36.4853674,-4.738263,61.27,60.3,3
+139,South America,2019,Jan,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Dehydration,Colombia,"2.352686000000, -76.683352000000",Unknown,2.352686,-76.683352,66.24,51.44,2
+140,Mediterranean,2019,Jan,1.0,Unknown,1,67.0,Unknown,Unknown,Unknown,Drowning,Spain,"35.886028764776, -3.811126192952",Western Mediterranean,35.886028764776,-3.811126192952,64.31,45.71,4
+141,Mediterranean,2019,Jan,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Spain,"36.184741288501, -5.915458663672",Western Mediterranean,36.184741288501,-5.915458663672,68.21,64.92,3
+142,Mediterranean,2019,Jan,6.0,Unknown,6,Unknown,Unknown,Unknown,Unknown,Drowning,Libya,"31.208814747402, 16.594403365833",Central Mediterranean,31.208814747402,16.594403365833,63.58,59.2,3
+143,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.276924900000, -112.859884600000",Central America to US,32.2769249,-112.8598846,87.02,64.64,5
+146,Mediterranean,2018,Dec,Unknown,7.0,7,1.0,Unknown,Unknown,Unknown,Drowning,Libya,"34.869024451220, 34.492835772639",Eastern Mediterranean,34.86902445122,34.492835772639,48.72,39.14,1
+147,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,"California, USA","32.541882023698, -117.133734140230",Central America to US,32.541882023698,-117.13373414023,82.93,51.19,5
+148,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Unknown,Mexico,"27.028916988435, -98.070345308930",Unknown,27.028916988435,-98.07034530893,64.35,58.0,3
+149,Europe,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Italy,"43.609902506139, 13.456590016544",Unknown,43.609902506139,13.456590016544,63.55,48.23,3
+150,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Weather conditions,"Texas, USA","28.759006919815, -100.519348400100",Central America to US,28.759006919815,-100.5193484001,59.98,42.7,2
+151,Mediterranean,2018,Dec,4.0,Unknown,4,56.0,Unknown,Unknown,Unknown,Drowning,Morocco,"35.481680686032, -3.342110714760",Western Mediterranean,35.481680686032,-3.34211071476,63.08,53.88,2
+153,Mediterranean,2018,Dec,Unknown,12.0,12,Unknown,1.0,11.0,Unknown,Drowning,Morocco,"35.940386653024, -5.940460712849",Western Mediterranean,35.940386653024,-5.940460712849,56.88,41.63,2
+154,Middle East,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Murdered,Syria,"35.963071341506, 36.294640216232",Unknown,35.963071341506,36.294640216232,63.73,60.95,2
+155,Mediterranean,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Spain,"35.914961693807, -5.380634704776",Western Mediterranean,35.914961693807,-5.380634704776,83.85,52.0,5
+156,Middle East,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Murdered,Syria,"36.010976380608, 36.291893634201",Unknown,36.010976380608,36.291893634201,64.29,62.09,2
+157,Mediterranean,2018,Dec,12.0,12.0,24,31.0,2.0,10.0,Unknown,Drowning,Spain,"36.385858171134, -2.625576919231",Western Mediterranean,36.385858171134,-2.625576919231,63.72,56.8,2
+158,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,"Texas, USA","28.655830400381, -100.480611280930",Central America to US,28.655830400381,-100.48061128093,59.04,44.06,4
+159,Mediterranean,2018,Dec,1.0,Unknown,1,56.0,Unknown,Unknown,Unknown,Unknown,Spain,"35.862101496706, -3.230474337214",Western Mediterranean,35.862101496706,-3.230474337214,30.93,20.57,1
+160,Mediterranean,2018,Dec,8.0,12.0,20,9.0,3.0,1.0,2.0,Drowning,Algeria,"36.656665744128, 1.229045427169",Western Mediterranean,36.656665744128,1.229045427169,83.46,51.63,5
+161,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","31.785528500000, -111.466392500000",Central America to US,31.7855285,-111.4663925,63.97,61.93,2
+162,Europe,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Serbia,"45.121869068460, 19.213236824545",Unknown,45.12186906846,19.213236824545,56.44,45.94,3
+163,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,1.0,Drowning,Mexico,"28.702360352070, -100.511538546900",Central America to US,28.70236035207,-100.5115385469,59.38,42.94,3
+164,Mediterranean,2018,Dec,1.0,Unknown,1,58.0,Unknown,1.0,Unknown,Drowning,Spain,"36.174642255222, -3.809567348437",Western Mediterranean,36.174642255222,-3.809567348437,56.69,42.18,4
+166,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,"Texas, USA","31.897189083031, -106.439103643990",Central America to US,31.897189083031,-106.43910364399,62.7,45.96,4
+167,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Unknown,"Arizona, USA","32.402664900000, -111.427588800000",Central America to US,32.4026649,-111.4275888,61.41,46.34,4
+168,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Unknown,"Arizona, USA","31.589492200000, -111.363378900000",Central America to US,31.5894922,-111.3633789,60.24,45.47,4
+169,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.331803200000, -112.524509300000",Central America to US,32.3318032,-112.5245093,83.7,75.57,7
+170,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,1.0,Unknown,Unknown,Unknown,"Arizona, USA","31.814869000000, -111.822328500000",Central America to US,31.814869,-111.8223285,63.27,56.53,3
+171,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Central America to US,32.057499,-111.6660725,80.69,46.96,5
+172,Caribbean,2018,Dec,2.0,4.0,6,5.0,1.0,Unknown,Unknown,Drowning,Puerto Rico,"19.112562500000, -69.313437500000",Unknown,19.1125625,-69.3134375,46.89,30.1,2
+173,US-Mexico Border,2018,Dec,2.0,Unknown,2,1.0,Unknown,2.0,2.0,Murdered,Mexico,"32.538296700000, -117.014062400000",Central America to US,32.5382967,-117.0140624,84.67,62.62,5
+174,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Unknown,"Texas, USA","29.827611906085, -102.592432413280",Unknown,29.827611906085,-102.59243241328,64.64,58.49,3
+175,Europe,2018,Dec,3.0,Unknown,3,Unknown,Unknown,3.0,Unknown,Accident,Greece,"40.989655000000, 24.630244000000",Unknown,40.989655,24.630244,60.24,45.47,4
+176,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Mexico,"27.630474000000, -99.625893000000",Central America to US,27.630474,-99.625893,73.0,56.9,3
+177,Mediterranean,2018,Dec,2.0,Unknown,2,49.0,Unknown,Unknown,Unknown,Drowning,Spain,"35.555360000000, -3.233348000000",Western Mediterranean,35.55536,-3.233348,87.26,62.8,6
+178,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","32.057499000000, -111.666072500000",Central America to US,32.057499,-111.6660725,84.66,62.6,5
+179,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,"California, USA","32.665484522394, -115.502037019710",Central America to US,32.665484522394,-115.50203701971,86.39,59.66,5
+180,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Unknown,"Texas, USA","26.182455064507, -98.379822163351",Unknown,26.182455064507,-98.379822163351,87.87,68.24,8
+181,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Mexico,"27.629882000000, -99.626826000000",Central America to US,27.629882,-99.626826,58.11,47.5,3
+182,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Drowning,Mexico,"28.337657000000, -100.308865000000",Central America to US,28.337657,-100.308865,83.74,64.65,5
+183,Central America,2018,Dec,1.0,Unknown,1,3.0,1.0,Unknown,Unknown,Murdered,Mexico,"17.997026000000, -95.385768000000",Unknown,17.997026,-95.385768,63.36,55.58,2
+184,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,1.0,Unknown,1.0,Sickness and lack of access to medicines,Mexico,"31.770748000000, -106.499407000000",Central America to US,31.770748,-106.499407,42.04,17.65,2
+185,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Drowning,"Texas, USA","27.427587000000, -99.491763000000",Central America to US,27.427587,-99.491763,72.93,57.11,3
+187,Mediterranean,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Spain,"35.948083000000, -5.277967000000",Western Mediterranean,35.948083,-5.277967,68.93,63.84,3
+188,Middle East,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Weather conditions,Turkey,"41.090092000000, 26.347378000000",Unknown,41.090092,26.347378,61.23,56.47,2
+189,US-Mexico Border,2018,Dec,1.0,Unknown,1,2.0,Unknown,1.0,Unknown,Drowning,"California, USA","32.659213618060, -115.577444479100",Central America to US,32.65921361806,-115.5774444791,87.08,62.73,6
+190,Mediterranean,2018,Dec,12.0,3.0,15,10.0,Unknown,Unknown,Unknown,Drowning,Libya,"32.835794000000, 15.372368000000",Central Mediterranean,32.835794,15.372368,39.7,20.25,2
+191,Mediterranean,2018,Dec,3.0,3.0,6,5.0,Unknown,2.0,Unknown,Drowning,Algeria,"36.993449000000, 4.395623000000",Western Mediterranean,36.993449,4.395623,86.96,62.66,6
+192,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Drowning,"Texas, USA","26.160750000000, -98.349042000000",Central America to US,26.16075,-98.349042,63.67,60.59,2
+193,Middle East,2018,Dec,3.0,Unknown,3,1.0,Unknown,2.0,Unknown,Weather conditions,Greece,"41.306959000000, 26.519596000000",Unknown,41.306959,26.519596,78.86,67.22,4
+194,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Mexico,"26.150512000000, -98.338580000000",Central America to US,26.150512,-98.33858,87.27,64.8,5
+195,Mediterranean,2018,Dec,2.0,Unknown,2,32.0,Unknown,2.0,Unknown,Drowning,Algeria,"36.206410000000, -0.440445000000",Western Mediterranean,36.20641,-0.440445,66.64,47.2,4
+196,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Drowning,"Texas, USA","25.886732000000, -97.518249000000",Central America to US,25.886732,-97.518249,86.65,38.78,5
+197,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Texas, USA","27.122955000000, -98.093600000000",Central America to US,27.122955,-98.0936,63.33,57.34,3
+198,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","31.916318900000, -112.935779900000",Central America to US,31.9163189,-112.9357799,62.49,59.14,2
+199,US-Mexico Border,2018,Dec,1.0,Unknown,1,Unknown,1.0,Unknown,Unknown,Sickness and lack of access to medicines,"Texas, USA","29.608160591764, -102.883570108590",Unknown,29.608160591764,-102.88357010859,63.67,61.3,2
+200,Europe,2018,Dec,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Weather conditions,Serbia,"45.081655670171, 19.196530946899",Unknown,45.081655670171,19.196530946899,83.69,64.19,5
+201,US-Mexico Border,2018,Nov,1.0,Unknown,1,1.0,Unknown,1.0,Unknown,Accident,Mexico,"32.534377000000, -117.066199000000",Central America to US,32.534377,-117.066199,50.13,43.69,3
+203,Mediterranean,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Algeria,"37.595408000000, 7.867908000000",Central Mediterranean,37.595408,7.867908,84.61,65.4,5
+205,Mediterranean,2018,Nov,1.0,Unknown,1,56.0,1.0,Unknown,Unknown,Unknown,Spain,"35.944056000000, -4.296153000000",Western Mediterranean,35.944056,-4.296153,46.68,40.79,3
+206,US-Mexico Border,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Mexico,"27.499653000000, -99.505310000000",Central America to US,27.499653,-99.50531,44.2,30.07,2
+207,US-Mexico Border,2018,Nov,3.0,Unknown,3,8.0,Unknown,Unknown,Unknown,Accident,Mexico,"32.662275000000, -116.223979000000",Central America to US,32.662275,-116.223979,64.15,62.06,2
+208,US-Mexico Border,2018,Nov,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,Mexico,"27.778512000000, -98.724081000000",Central America to US,27.778512,-98.724081,73.04,51.63,5
+209,US-Mexico Border,2018,Nov,2.0,Unknown,2,Unknown,1.0,1.0,Unknown,Accident,"California, USA","32.705055619243, -116.357761744710",Central America to US,32.705055619243,-116.35776174471,44.95,23.37,2
+210,Europe,2018,Nov,1.0,Unknown,1,8.0,Unknown,Unknown,Unknown,Accident,Greece,"40.954982000000, 24.386152000000",Unknown,40.954982,24.386152,81.36,45.76,5
+211,Mediterranean,2018,Nov,3.0,Unknown,3,90.0,Unknown,Unknown,Unknown,Drowning,Spain,"36.150154000000, -3.405538000000",Western Mediterranean,36.150154,-3.405538,83.08,51.28,5
+212,Central America,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Mexico,"29.097150000000, -110.919818000000",Unknown,29.09715,-110.919818,64.72,61.67,2
+213,Europe,2018,Nov,4.0,Unknown,4,Unknown,Unknown,4.0,Unknown,Accident,Greece,"41.051762000000, 25.475700000000",Unknown,41.051762,25.4757,64.37,56.78,3
+215,Central America,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,1.0,Sickness and lack of access to medicines,Mexico,"28.267376000000, -105.477996000000",Unknown,28.267376,-105.477996,57.39,43.04,3
+216,US-Mexico Border,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Mexico,"28.756048379149, -100.530605432730",Central America to US,28.756048379149,-100.53060543273,63.7,56.75,3
+217,Mediterranean,2018,Nov,Unknown,1.0,1,13.0,Unknown,Unknown,Unknown,Drowning,Spain,"35.943355978115, -2.447945545313",Western Mediterranean,35.943355978115,-2.447945545313,64.41,61.92,2
+218,Mediterranean,2018,Nov,20.0,9.0,29,39.0,2.0,27.0,Unknown,Drowning,Morocco,"35.332202000000, -2.746510000000",Western Mediterranean,35.332202,-2.74651,65.15,57.88,2
+219,Middle East,2018,Nov,1.0,Unknown,1,26.0,Unknown,1.0,1.0,Accident,Turkey,"36.837397656734, 31.765854155410",Unknown,36.837397656734,31.76585415541,73.33,55.79,3
+220,US-Mexico Border,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Mexico,"32.525530100000, -117.009588600000",Central America to US,32.5255301,-117.0095886,86.44,64.08,5
+221,Mediterranean,2018,Nov,1.0,13.0,14,42.0,1.0,Unknown,Unknown,Drowning,Spain,"36.125482848253, -3.019234607813",Western Mediterranean,36.125482848253,-3.019234607813,63.7,56.75,3
+222,Mediterranean,2018,Nov,1.0,6.0,7,11.0,Unknown,7.0,Unknown,Drowning,Algeria,"37.101562000000, 7.867572000000",Central Mediterranean,37.101562,7.867572,48.55,40.42,3
+223,US-Mexico Border,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Sickness and lack of access to medicines,Mexico,"32.604487000000, -115.379027000000",Central America to US,32.604487,-115.379027,73.12,55.89,3
+224,US-Mexico Border,2018,Nov,2.0,Unknown,2,Unknown,Unknown,Unknown,Unknown,Unknown,"Texas, USA","27.088454736067, -98.224044482031",Central America to US,27.088454736067,-98.224044482031,57.62,52.1,2
+225,US-Mexico Border,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,1.0,Sickness and lack of access to medicines,Mexico,"32.525530100000, -117.009588600000",Central America to US,32.5255301,-117.0095886,62.94,51.4,2
+226,US-Mexico Border,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,1.0,Accident,Mexico,"32.511197835073, -116.080225617040",Central America to US,32.511197835073,-116.08022561704,84.23,63.09,5
+227,US-Mexico Border,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Unknown,"California, USA","32.673095138309, -115.391251701330",Central America to US,32.673095138309,-115.39125170133,66.59,64.9,4
+228,Mediterranean,2018,Nov,1.0,Unknown,1,10.0,Unknown,1.0,Unknown,Drowning,Turkey,"36.957355521278, 27.406164084473",Eastern Mediterranean,36.957355521278,27.406164084473,85.38,63.58,5
+229,Mediterranean,2018,Nov,2.0,7.0,9,1.0,1.0,8.0,Unknown,Drowning,Spain,"36.207723272813, -6.263366759375",Western Mediterranean,36.207723272813,-6.263366759375,93.36,66.4,8
+230,US-Mexico Border,2018,Nov,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Texas, USA","27.330210520667, -98.630746182528",Central America to US,27.330210520667,-98.630746182528,78.9,67.18,4
+231,North Africa,2018,Nov,Unknown,22.0,22,3.0,Unknown,1.0,1.0,Drowning,Morocco,"29.822677770283, -10.210486774219",Western African,29.822677770283,-10.210486774219,91.34,65.6,7
+233,US-Mexico Border,2018,Nov,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Texas, USA","26.955081229481, -97.828384703299",Unknown,26.955081229481,-97.828384703299,86.69,62.47,6
+235,Sub-Saharan Africa,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Niger,"13.511667000000, 2.125278000000",Unknown,13.511667,2.125278,61.5,56.48,2
+236,US-Mexico Border,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Mexico,"25.888653822568, -97.523186761530",Central America to US,25.888653822568,-97.52318676153,83.14,64.21,5
+237,Central America,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Unknown,Mexico,"19.025215788750, -96.317462928047",Unknown,19.02521578875,-96.317462928047,32.59,19.48,1
+239,US-Mexico Border,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Unknown,"Texas, USA","26.097296000000, -98.261871000000",Unknown,26.097296,-98.261871,99.92,70.92,7
+240,Mediterranean,2018,Nov,4.0,6.0,10,3.0,Unknown,2.0,Unknown,Drowning,Italy,"38.844062326256, 8.408826454492",Central Mediterranean,38.844062326256,8.408826454492,85.72,64.91,5
+241,US-Mexico Border,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Unknown,"Texas, USA","27.381818793300, -99.448285378522",Central America to US,27.3818187933,-99.448285378522,50.69,43.82,2
+242,Europe,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Sickness and lack of access to medicines,Serbia,"44.765773000000, 20.467632000000",Western Balkans,44.765773,20.467632,71.64,47.62,6
+243,Horn of Africa,2018,Nov,5.0,Unknown,5,Unknown,2.0,1.0,1.0,Murdered,Ethiopia,"8.271988000000, 34.587575000000",Unknown,8.271988,34.587575,49.61,33.67,2
+244,US-Mexico Border,2018,Nov,1.0,Unknown,1,1.0,1.0,Unknown,Unknown,Unknown,"Texas, USA","27.194011764208, -98.274634046484",Central America to US,27.194011764208,-98.274634046484,35.9,17.21,1
+245,Mediterranean,2018,Nov,6.0,4.0,10,5.0,4.0,5.0,6.0,Drowning,"Lesvos, Greece","39.076232633511, 26.729897242187",Eastern Mediterranean,39.076232633511,26.729897242187,96.07,62.85,6
+246,South Asia,2018,Nov,2.0,Unknown,2,5.0,Unknown,2.0,Unknown,Murdered,Iran,"27.149020794829, 63.291549697656",Unknown,27.149020794829,63.291549697656,86.0,59.01,9
+247,Europe,2018,Nov,1.0,Unknown,1,9.0,1.0,Unknown,Unknown,Accident,Greece,"40.706812500000, 23.191562500000",Western Balkans,40.7068125,23.1915625,49.06,33.01,2
+248,Europe,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Serbia,"44.522738789151, 19.151800033374",Western Balkans,44.522738789151,19.151800033374,67.8,47.7,3
+249,Sub-Saharan Africa,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Sickness and lack of access to medicines,Mali,"12.639167000000, -8.002778000000",Unknown,12.639167,-8.002778,62.68,54.66,2
+250,Sub-Saharan Africa,2018,Nov,1.0,Unknown,1,Unknown,1.0,Unknown,Unknown,Sickness and lack of access to medicines,Niger,"16.967643000000, 7.985137000000",Unknown,16.967643,7.985137,66.18,55.18,3
+251,Europe,2018,Nov,1.0,Unknown,1,27.0,Unknown,1.0,1.0,Accident,Greece,"40.739954570559, 23.016855162231",Western Balkans,40.739954570559,23.016855162231,87.17,66.35,5
+252,Mediterranean,2018,Nov,2.0,Unknown,2,13.0,Unknown,2.0,1.0,Unknown,Spain,"36.709463477802, -4.221767056592",Western Mediterranean,36.709463477802,-4.221767056592,62.49,59.14,2
+253,Mediterranean,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Spain,"35.896543454211, -5.300197427261",Western Mediterranean,35.896543454211,-5.300197427261,65.67,47.81,2
+254,Mediterranean,2018,Nov,Unknown,1.0,1,40.0,Unknown,1.0,Unknown,Drowning,Italy,"35.203978684726, 12.812646562500",Central Mediterranean,35.203978684726,12.8126465625,98.99,65.71,8
+255,US-Mexico Border,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Unknown,"Texas, USA","27.031213823663, -97.970171350586",Central America to US,27.031213823663,-97.970171350586,98.99,65.71,8
+256,Mediterranean,2018,Nov,Unknown,5.0,5,Unknown,1.0,4.0,Unknown,Drowning,Algeria,"37.596845000000, 7.868337000000",Central Mediterranean,37.596845,7.868337,86.4,59.75,5
+257,Middle East,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Murdered,Syria,"36.829138418553, 37.987020277664",Unknown,36.829138418553,37.987020277664,76.83,50.92,8
+258,Sub-Saharan Africa,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Mali,"11.316667000000, -5.666667000000",Unknown,11.316667,-5.666667,47.41,32.22,2
+259,Sub-Saharan Africa,2018,Nov,3.0,Unknown,3,Unknown,1.0,1.0,1.0,Accident,Mali,"11.316667000000, -5.666667000000",Unknown,11.316667,-5.666667,98.99,65.71,8
+260,US-Mexico Border,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,Mexico,"28.330220711783, -100.301303382470",Central America to US,28.330220711783,-100.30130338247,63.87,43.78,3
+261,Central America,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Mexico,"19.911531499716, -99.363792495337",Unknown,19.911531499716,-99.363792495337,64.42,58.31,3
+262,Middle East,2018,Nov,5.0,Unknown,5,16.0,Unknown,Unknown,Unknown,Accident,Turkey,"38.645007505791, 44.204894246094",Unknown,38.645007505791,44.204894246094,60.86,42.56,2
+263,Sub-Saharan Africa,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Sickness and lack of access to medicines,Mali,"11.316667000000, -5.666667000000",Unknown,11.316667,-5.666667,67.26,46.75,4
+264,Mediterranean,2018,Nov,23.0,Unknown,23,22.0,Unknown,9.0,Unknown,Drowning,Spain,"36.146208377123, -6.010210826953",Western Mediterranean,36.146208377123,-6.010210826953,96.83,66.44,8
+265,Mediterranean,2018,Nov,13.0,18.0,31,80.0,Unknown,13.0,Unknown,Drowning,Spain,"35.537958511526, -2.934664072461",Western Mediterranean,35.537958511526,-2.934664072461,96.79,62.94,8
+266,Europe,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Accident,Greece,"39.488630000000, 20.280311000000",Unknown,39.48863,20.280311,96.55,62.87,7
+267,US-Mexico Border,2018,Nov,1.0,Unknown,1,Unknown,Unknown,Unknown,Unknown,Unknown,"Arizona, USA","31.967683100000, -113.013308300000",Central America to US,31.9676831,-113.0133083,84.53,52.91,5
+268,Sub-Saharan Africa,2018,Nov,2.0,Unknown,2,Unknown,1.0,1.0,1.0,Accident,Mali,"10.487500000000, -5.653611000000",Unknown,10.4875,-5.653611,50.48,41.31,3
+269,Sub-Saharan Africa,2018,Nov,1.0,Unknown,1,Unknown,1.0,Unknown,Unknown,Sickness and lack of access to medicines,Burkina Faso,"12.050000000000, 0.366667000000",Unknown,12.05,0.366667,93.75,62.95,9
+270,Sub-Saharan Africa,2018,Nov,1.0,Unknown,1,Unknown,1.0,Unknown,Unknown,Accident,Burkina Faso,"12.190000000000, 1.390000000000",Unknown,12.19,1.39,68.17,49.88,9
+271,US-Mexico Border,2018,Nov,1.0,Unknown,1,Unknown,Unknown,1.0,Unknown,Drowning,"Texas, USA","28.507101348765, -100.318219816460",Central America to US,28.507101348765,-100.31821981646,78.74,67.57,4

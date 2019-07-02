@@ -86,7 +86,7 @@ def Apidata3(data):
 
 def Apidata4(data):
     lista_noviembre=[]
-    for ind in range(186,259): 
+    for ind in range(186,255): 
         lat, lon = get_3_items(data, ind)
         res = requests.get("{}/{}/{},{},1543622400?exclude=currently,flags, minutely, hourly".format(BASE_URL, TOKEN, lat, lon))
         temperatureMax = res.json().get('daily').get('data')[0].get('temperatureMax')
@@ -102,3 +102,13 @@ def makeData(lista):
     data_lista = lista
     dataframe_merge = pd.concat(data_lista)
     return dataframe_merge
+
+def twoDataframes(data_apis, data_clean):
+    data_apis.reset_index(drop=True, inplace=True)
+    data_filter = data_clean.iloc[0:251]
+    data_analysis = pd.concat([data_filter, data_apis], axis=1)
+    return data_analysis
+
+def select_columns(data_analysis,column_names):
+    new_frame = data_analysis.loc[:, column_names]
+    return new_frame
