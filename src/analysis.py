@@ -14,4 +14,3 @@ def filterdata(data):
     data_filter.reset_index(drop=True, inplace=True)
     data_analysis = pd.concat( [data_filter, dataframe_merge], axis=1)
     return data_analysis
-print(data)
