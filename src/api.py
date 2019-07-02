@@ -39,54 +39,66 @@ def Apidata(data):
         diccion ={}
         diccion.update({"temperatureMax": temperatureMax, "temperatureMin": temperatureMin, "uvIndex": uvIndex})
         lista_marzo.append(diccion)
-        return lista_marzo
+    data_marzo=pd.DataFrame(lista_marzo)
+    return data_marzo
 
 def Apidata1(data):
-        lista_febrero=[]
-        for ind in range(32,76): 
-                lat, lon = get_3_items(data, ind)
-                es = requests.get("{}/{}/{},{},1548979200?exclude=currently,flags, minutely, hourly".format(BASE_URL, TOKEN, lat, lon))
-                return lista_febrero
+    lista_febrero=[]
+    for ind in range(32,76): 
+        lat, lon = get_3_items(data, ind)
+        res = requests.get("{}/{}/{},{},1548979200?exclude=currently,flags, minutely, hourly".format(BASE_URL, TOKEN, lat, lon))
+        temperatureMax = res.json().get('daily').get('data')[0].get('temperatureMax')
+        temperatureMin = res.json().get('daily').get('data')[0].get('temperatureMin')
+        uvIndex = res.json().get('daily').get('data')[0].get('uvIndex')
+        diccion ={}
+        diccion.update({"temperatureMax": temperatureMax, "temperatureMin": temperatureMin, "uvIndex": uvIndex})
+        lista_febrero.append(diccion)
+    data_febrero=pd.DataFrame(lista_febrero)
+    return data_febrero
     
 def Apidata2(data):
-        lista_enero=[]
-        for ind in range(77,132): 
-                lat, lon = get_3_items(data, ind)
-                res = requests.get("{}/{}/{},{},1546300800?exclude=currently,flags, minutely, hourly".format(BASE_URL, TOKEN, lat, lon))
-                temperatureMax = res.json().get('daily').get('data')[0].get('temperatureMax')
-                temperatureMin = res.json().get('daily').get('data')[0].get('temperatureMin')
-                uvIndex = res.json().get('daily').get('data')[0].get('uvIndex')
-                diccion ={}
-                diccion.update({"temperatureMax": temperatureMax, "temperatureMin": temperatureMin, "uvIndex": uvIndex})
-                lista_enero.append(diccion) 
-                return lista_enero
+    lista_enero=[]
+    for ind in range(77,132): 
+        lat, lon = get_3_items(data, ind)
+        res = requests.get("{}/{}/{},{},1546300800?exclude=currently,flags, minutely, hourly".format(BASE_URL, TOKEN, lat, lon))
+        temperatureMax = res.json().get('daily').get('data')[0].get('temperatureMax')
+        temperatureMin = res.json().get('daily').get('data')[0].get('temperatureMin')
+        uvIndex = res.json().get('daily').get('data')[0].get('uvIndex')
+        diccion ={}
+        diccion.update({"temperatureMax": temperatureMax, "temperatureMin": temperatureMin, "uvIndex": uvIndex})
+        lista_enero.append(diccion) 
+    data_enero = pd.DataFrame(lista_enero)
+    return data_enero
     
 def Apidata3(data):
-        lista_diciembre=[]
-        for ind in range(133,185): 
-                lat, lon = get_3_items(data, ind)
-                res = requests.get("{}/{}/{},{},1543622400?exclude=currently,flags, minutely, hourly".format(BASE_URL, TOKEN, lat, lon))
-                temperatureMax = res.json().get('daily').get('data')[0].get('temperatureMax')
-                temperatureMin = res.json().get('daily').get('data')[0].get('temperatureMin')
-                uvIndex = res.json().get('daily').get('data')[0].get('uvIndex')
-                diccion ={}
-                diccion.update({"temperatureMax": temperatureMax, "temperatureMin": temperatureMin, "uvIndex": uvIndex})
-                lista_diciembre.append(diccion)
-                return lista_diciembre
+    lista_diciembre=[]
+    for ind in range(133,185): 
+        lat, lon = get_3_items(data, ind)
+        res = requests.get("{}/{}/{},{},1543622400?exclude=currently,flags, minutely, hourly".format(BASE_URL, TOKEN, lat, lon))
+        temperatureMax = res.json().get('daily').get('data')[0].get('temperatureMax')
+        temperatureMin = res.json().get('daily').get('data')[0].get('temperatureMin')
+        uvIndex = res.json().get('daily').get('data')[0].get('uvIndex')
+        diccion ={}
+        diccion.update({"temperatureMax": temperatureMax, "temperatureMin": temperatureMin, "uvIndex": uvIndex})
+        lista_diciembre.append(diccion)
+    data_diciembre = pd.DataFrame(lista_diciembre)
+    return data_diciembre
 
 def Apidata4(data):
-        lista_noviembre=[]
-        for ind in range(186,259): 
-                lat, lon = get_3_items(data, ind)
-                res = requests.get("{}/{}/{},{},1543622400?exclude=currently,flags, minutely, hourly".format(BASE_URL, TOKEN, lat, lon))
-                temperatureMax = res.json().get('daily').get('data')[0].get('temperatureMax')
-                temperatureMin = res.json().get('daily').get('data')[0].get('temperatureMin')
-                uvIndex = res.json().get('daily').get('data')[0].get('uvIndex')
-                diccion ={}
-                diccion.update({"temperatureMax": temperatureMax, "temperatureMin": temperatureMin, "uvIndex": uvIndex})
-                lista_noviembre.append(diccion)
-                return lista_noviembre
+    lista_noviembre=[]
+    for ind in range(186,259): 
+        lat, lon = get_3_items(data, ind)
+        res = requests.get("{}/{}/{},{},1543622400?exclude=currently,flags, minutely, hourly".format(BASE_URL, TOKEN, lat, lon))
+        temperatureMax = res.json().get('daily').get('data')[0].get('temperatureMax')
+        temperatureMin = res.json().get('daily').get('data')[0].get('temperatureMin')
+        uvIndex = res.json().get('daily').get('data')[0].get('uvIndex')
+        diccion ={}
+        diccion.update({"temperatureMax": temperatureMax, "temperatureMin": temperatureMin, "uvIndex": uvIndex})
+        lista_noviembre.append(diccion)
+    data_noviembre = pd.DataFrame(lista_noviembre)
+    return data_noviembre
 
 def makeData(lista):
-    data_lista = pd.DataFrame(lista)
-    return data_lista
+    data_lista = lista
+    dataframe_merge = pd.concat(data_lista)
+    return dataframe_merge
