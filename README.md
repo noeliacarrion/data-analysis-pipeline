@@ -1,7 +1,16 @@
 # Proyecto Pipelines
 Pipelines Project - Bootcamp Data Analytics Ironhack
 
-Este proyecto consiste en analizar la relación ente el clima y la crisis migratoria. A partir de un dataset de Kaggle elaborado por la Organización Nacional de Migraciones he relacionado el número de muertes de migrantes y sus rutas migratorias con el tiempo que hacía en esa localización exacta. Para ello he usado la API DarkSki.
+Este proyecto consiste en analizar la relación ente el clima y la crisis migratoria. A partir de un dataset de Kaggle elaborado por la Organización Nacional de Migraciones he relacionado el número de muertes de migrantes y sus rutas migratorias con el tiempo que hacía en esa localización exacta. Para ello he usado la API DarkSki. El archivo principal realiza el análisis consultando a la API y devuelve los gráficos con varios resultados.
+
+EL proyecto cuenta con los siguientes archivos:
+
+- main.py
+- god.py
+- acquisiion.py
+- clean.py
+- api.py
+- analysis.py
 
 # Limpieza:
 
