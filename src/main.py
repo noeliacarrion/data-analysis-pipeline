@@ -6,6 +6,7 @@ def main():
     data_clean = cleaning(data)
     data_apis = datafromApi(data_clean)
     plot_finals = analysis_plot()
+    print(plot_finals)
 
 if __name__ == "__main__":
     main()
